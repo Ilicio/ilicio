@@ -1,5 +1,4 @@
 
-<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/Ilicio/3a322712198b9a939787d11cc3cb436e/raw/1bd2510d2d6f4de4667d771a8c4e4f1309801153/ilicio-github-card.svg"/>
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Ilício</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ilicio&color=yellow" alt="Profile views" /> </p>
 
